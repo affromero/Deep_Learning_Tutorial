@@ -1,4 +1,6 @@
 data/
 .ipy*
 *.pyc
-logs/
+#logs/
+*yaml
+*.tar
