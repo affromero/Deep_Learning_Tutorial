@@ -5,3 +5,10 @@ These are tutorials are made exclusively for the *1st IEEE Signal Processing Soc
 These codes support the **Dr. Pablo Arbelaez**' talk on Convolutional Neural Network (CNNs) and Semantic Segmentation (Feb 22). 
 
 **Andrés Felipe Romero** is in charge of this practical tutorial. 
+
+----
+## Requirements
+- Python 2.7 or higher
+- **CNN tutorial**: Tensorflow 1.5.0 - *Although it would work in older versions*
+- **FCN tutorial**: Pytorch 0.2 or higher
+
