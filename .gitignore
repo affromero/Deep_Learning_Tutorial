@@ -4,3 +4,5 @@ data/
 #logs/
 *yaml
 *.tar
+tensorboard/
+data_set/
