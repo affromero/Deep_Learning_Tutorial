@@ -12,3 +12,5 @@ These codes support the **Dr. Pablo Arbelaez**' talk on Convolutional Neural Net
 - **CNN tutorial**: Tensorflow 1.5.0 - *Although it would work in older versions*
 - **FCN tutorial**: Pytorch 0.2 or higher
 
+## Tip
+Use this commit `e8e0197` to see the expected training outputs of this tutorial (mostly for FCN as CNN is straightforward and no time consuming). 
