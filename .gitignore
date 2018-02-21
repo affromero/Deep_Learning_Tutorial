@@ -6,3 +6,4 @@ data/
 *.tar
 tensorboard/
 data_set/
+MODEL-fcn*
