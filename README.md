@@ -13,4 +13,4 @@ These codes support the **Dr. Pablo Arbelaez**' talk on Convolutional Neural Net
 - **FCN tutorial**: Pytorch 0.2 or higher
 
 ## Tip
-Use this commit `e8e0197` to see the expected training outputs of this tutorial (mostly for FCN as CNN is straightforward and no time consuming). 
+Use this commit `e8e0197` to see the expected training outputs of these tutorials (mostly for FCN since CNN is straightforward and no time consuming). 
